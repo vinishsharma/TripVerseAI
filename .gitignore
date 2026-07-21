@@ -1,0 +1,12 @@
+# Installed packages and generated builds
+node_modules/
+dist/
+
+# Private configuration and API keys
+.env
+.env.*
+!.env.example
+
+# Machine and diagnostic files
+.DS_Store
+*.log
